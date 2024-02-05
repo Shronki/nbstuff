@@ -49,18 +49,22 @@ p {
     max-width: 20%;
     border: 1px solid gray;
     margin-right: 10px;
-    height: 250px;
+    min-height: 400px;
     background-color: #0c0c0b;
 
 }
 
 
 .contentArea {
+    display: flex;
+    flex-direction: column;
     padding: 5px;
     flex: 3 1 80%;
-
+    background-color: #0c0c0b;
     word-wrap: break-word;
     border: 1px solid gray;
+    align-content:center;
+    justify-content: right;
 }
 
 
