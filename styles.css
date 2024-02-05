@@ -3,7 +3,6 @@ body {
     color: #eff3eb;
     background-image: url(img/background.png);
     background-size: 150px 150px;
-    background-blend-mode: multiply;
 }
 
 p {
