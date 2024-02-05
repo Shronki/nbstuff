@@ -1,0 +1,26 @@
+body {
+    background-color: #0c0c0b;
+    color: #eff3eb;
+
+}
+
+p {
+    color: #eff3eb;
+}
+
+.sideBar {
+    background-color: #0c0c0b;
+}
+
+.sideBar a {
+    font-size: 12px;
+    color: rgb(255, 187, 0);
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.mainMenuItemImage {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
